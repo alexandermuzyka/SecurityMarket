@@ -41,3 +41,46 @@ c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsSto
 c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
 c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\csc.exe
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\System.Collections.Immutable.dll
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\vbc.exe
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe
+D:\SportsStore11\SportsStore.WebUI\bin\roslyn\VBCSCompiler.exe.config
+D:\SportsStore11\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+D:\SportsStore11\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+D:\SportsStore11\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\SportsStore11\SportsStore.WebUI\bin\EntityFramework.dll
+D:\SportsStore11\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+D:\SportsStore11\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SportsStore11\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\SportsStore11\SportsStore.WebUI\bin\Moq.dll
+D:\SportsStore11\SportsStore.WebUI\bin\Ninject.dll
+D:\SportsStore11\SportsStore.WebUI\bin\SportsStore.Domain.dll
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Helpers.dll
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Mvc.dll
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Razor.dll
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Webpages.dll
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+D:\SportsStore11\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\SportsStore11\SportsStore.WebUI\bin\EntityFramework.xml
+D:\SportsStore11\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+D:\SportsStore11\SportsStore.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SportsStore11\SportsStore.WebUI\bin\Moq.xml
+D:\SportsStore11\SportsStore.WebUI\bin\Ninject.xml
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Razor.xml
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Webpages.xml
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Helpers.xml
+D:\SportsStore11\SportsStore.WebUI\bin\System.Web.Mvc.xml
+D:\SportsStore11\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.csprojResolveAssemblyReference.cache
+D:\SportsStore11\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+D:\SportsStore11\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

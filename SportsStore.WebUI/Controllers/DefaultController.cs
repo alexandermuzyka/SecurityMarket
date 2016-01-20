@@ -6,14 +6,11 @@ using System.Web.Mvc;
 
 namespace SportsStore.WebUI.Controllers
 {
-    public class HomeController : Controller
+    public class DefaultController : Controller
     {
-        // GET: Home
+        // GET: Default
         public ActionResult Index()
         {
-          //  ViewBag.MyMessageToUsers = "Hello";
-            //ViewBag.AnswerText = "Your Answers goes here";
-      
             return View();
         }
     }
