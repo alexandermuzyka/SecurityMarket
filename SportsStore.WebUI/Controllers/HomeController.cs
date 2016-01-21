@@ -11,8 +11,8 @@ namespace SportsStore.WebUI.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            ViewBag.MyMessageToUsers = "Hello from me";
-            ViewBag.AnswerText = "Your Answers goes here";
+            //ViewBag.MyMessageToUsers = "Hello from me";
+            //ViewBag.AnswerText = "Your Answers goes here";
       
             return View();
         }

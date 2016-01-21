@@ -20,7 +20,8 @@ namespace SportsStore.WebUI
             ControllerBuilder.Current.SetControllerFactory(new NinjectControllerFactory());
 
             ModelBinders.Binders.Add(typeof(Cart), new CartModelBinder());
-
+            HtmlHelper.ClientValidationEnabled = false;
+            HtmlHelper.UnobtrusiveJavaScriptEnabled = false;
         }
     }
 }

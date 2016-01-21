@@ -21,3 +21,26 @@ c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsSto
 c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
 c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
 c:\users\malex\onedrive\документы\visual studio 2015\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+D:\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+D:\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+D:\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+D:\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
